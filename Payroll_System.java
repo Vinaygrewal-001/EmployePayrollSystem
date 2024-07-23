@@ -37,8 +37,7 @@ public class Payroll_System {
     {
         for(Employee i:employeeList){
             System.out.println(i);
-            int id = i.getId();
-            System.out.println(id);
+        
         }
     }
 }
